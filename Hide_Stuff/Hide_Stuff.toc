@@ -1,0 +1,7 @@
+## Interface: 80000
+## Version: 1
+
+## Title: Hide_Stuff
+## Author: Scrable
+
+core.lua
